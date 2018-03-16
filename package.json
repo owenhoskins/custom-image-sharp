@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-sharp",
+  "name": "custom-plugin-sharp",
   "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
   "version": "1.6.41",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
